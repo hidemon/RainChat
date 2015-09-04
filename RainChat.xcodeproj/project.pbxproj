@@ -7,12 +7,18 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		BCA05CAB81A0DD7CC864B6C4 /* libPods.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 144B65F0A2E8131F0296B2BD /* libPods.a */; };
+		DE5710B11B676CB100200329 /* ConversationViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = DE5710B01B676CB000200329 /* ConversationViewController.swift */; };
+		DE5710B31B686C5300200329 /* ConversationListViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = DE5710B21B686C5300200329 /* ConversationListViewController.swift */; };
+		DE5710B51B6870C300200329 /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = DE5710B41B6870C300200329 /* Images.xcassets */; };
+		DE5710B71B70A76B00200329 /* LoginViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = DE5710B61B70A76B00200329 /* LoginViewController.swift */; };
+		DE5710B91B70AC9000200329 /* RoundImageView.swift in Sources */ = {isa = PBXBuildFile; fileRef = DE5710B81B70AC9000200329 /* RoundImageView.swift */; };
 		DEF516861B672ECA00C23AC4 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = DEF516851B672ECA00C23AC4 /* AppDelegate.swift */; };
 		DEF516881B672ECA00C23AC4 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = DEF516871B672ECA00C23AC4 /* ViewController.swift */; };
 		DEF5168B1B672ECA00C23AC4 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = DEF516891B672ECA00C23AC4 /* Main.storyboard */; };
-		DEF5168D1B672ECA00C23AC4 /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = DEF5168C1B672ECA00C23AC4 /* Images.xcassets */; };
 		DEF516901B672ECA00C23AC4 /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = DEF5168E1B672ECA00C23AC4 /* LaunchScreen.xib */; };
 		DEF5169C1B672ECA00C23AC4 /* RainChatTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = DEF5169B1B672ECA00C23AC4 /* RainChatTests.swift */; };
+		DEF516A81B6735E900C23AC4 /* Podfile in Resources */ = {isa = PBXBuildFile; fileRef = DEF516A71B6735E900C23AC4 /* Podfile */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -26,16 +32,25 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		144B65F0A2E8131F0296B2BD /* libPods.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = libPods.a; sourceTree = BUILT_PRODUCTS_DIR; };
+		9D1CC66C101446142D4C1402 /* Pods.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = Pods.debug.xcconfig; path = "Pods/Target Support Files/Pods/Pods.debug.xcconfig"; sourceTree = "<group>"; };
+		9E32F4F7593762E45E0AB5CC /* Pods.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = Pods.release.xcconfig; path = "Pods/Target Support Files/Pods/Pods.release.xcconfig"; sourceTree = "<group>"; };
+		DE5710AD1B674B7000200329 /* RainChat-Bridging-Header.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "RainChat-Bridging-Header.h"; sourceTree = "<group>"; };
+		DE5710B01B676CB000200329 /* ConversationViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ConversationViewController.swift; sourceTree = "<group>"; };
+		DE5710B21B686C5300200329 /* ConversationListViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ConversationListViewController.swift; sourceTree = "<group>"; };
+		DE5710B41B6870C300200329 /* Images.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Images.xcassets; sourceTree = "<group>"; };
+		DE5710B61B70A76B00200329 /* LoginViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = LoginViewController.swift; sourceTree = "<group>"; };
+		DE5710B81B70AC9000200329 /* RoundImageView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = RoundImageView.swift; sourceTree = "<group>"; };
 		DEF516801B672ECA00C23AC4 /* RainChat.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = RainChat.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		DEF516841B672ECA00C23AC4 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		DEF516851B672ECA00C23AC4 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		DEF516871B672ECA00C23AC4 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
 		DEF5168A1B672ECA00C23AC4 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
-		DEF5168C1B672ECA00C23AC4 /* Images.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Images.xcassets; sourceTree = "<group>"; };
 		DEF5168F1B672ECA00C23AC4 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = Base; path = Base.lproj/LaunchScreen.xib; sourceTree = "<group>"; };
 		DEF516951B672ECA00C23AC4 /* RainChatTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = RainChatTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		DEF5169A1B672ECA00C23AC4 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		DEF5169B1B672ECA00C23AC4 /* RainChatTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RainChatTests.swift; sourceTree = "<group>"; };
+		DEF516A71B6735E900C23AC4 /* Podfile */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = Podfile; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -43,6 +58,7 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				BCA05CAB81A0DD7CC864B6C4 /* libPods.a in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -56,12 +72,32 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		326A9B4BEAE5D1FE8C67D0F9 /* Pods */ = {
+			isa = PBXGroup;
+			children = (
+				9D1CC66C101446142D4C1402 /* Pods.debug.xcconfig */,
+				9E32F4F7593762E45E0AB5CC /* Pods.release.xcconfig */,
+			);
+			name = Pods;
+			sourceTree = "<group>";
+		};
+		532D6F10F69FF6CBFC39AA2C /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				144B65F0A2E8131F0296B2BD /* libPods.a */,
+			);
+			name = Frameworks;
+			sourceTree = "<group>";
+		};
 		DEF516771B672ECA00C23AC4 = {
 			isa = PBXGroup;
 			children = (
+				DEF516A71B6735E900C23AC4 /* Podfile */,
 				DEF516821B672ECA00C23AC4 /* RainChat */,
 				DEF516981B672ECA00C23AC4 /* RainChatTests */,
 				DEF516811B672ECA00C23AC4 /* Products */,
+				326A9B4BEAE5D1FE8C67D0F9 /* Pods */,
+				532D6F10F69FF6CBFC39AA2C /* Frameworks */,
 			);
 			sourceTree = "<group>";
 		};
@@ -80,9 +116,14 @@
 				DEF516851B672ECA00C23AC4 /* AppDelegate.swift */,
 				DEF516871B672ECA00C23AC4 /* ViewController.swift */,
 				DEF516891B672ECA00C23AC4 /* Main.storyboard */,
-				DEF5168C1B672ECA00C23AC4 /* Images.xcassets */,
+				DE5710B81B70AC9000200329 /* RoundImageView.swift */,
+				DE5710B21B686C5300200329 /* ConversationListViewController.swift */,
+				DE5710B01B676CB000200329 /* ConversationViewController.swift */,
+				DE5710B61B70A76B00200329 /* LoginViewController.swift */,
 				DEF5168E1B672ECA00C23AC4 /* LaunchScreen.xib */,
+				DE5710B41B6870C300200329 /* Images.xcassets */,
 				DEF516831B672ECA00C23AC4 /* Supporting Files */,
+				DE5710AD1B674B7000200329 /* RainChat-Bridging-Header.h */,
 			);
 			path = RainChat;
 			sourceTree = "<group>";
@@ -119,9 +160,11 @@
 			isa = PBXNativeTarget;
 			buildConfigurationList = DEF5169F1B672ECA00C23AC4 /* Build configuration list for PBXNativeTarget "RainChat" */;
 			buildPhases = (
+				02C179BA4B9D234EBD9DA6CF /* Check Pods Manifest.lock */,
 				DEF5167C1B672ECA00C23AC4 /* Sources */,
 				DEF5167D1B672ECA00C23AC4 /* Frameworks */,
 				DEF5167E1B672ECA00C23AC4 /* Resources */,
+				B58B07D73A81035B02AA33C1 /* Copy Pods Resources */,
 			);
 			buildRules = (
 			);
@@ -193,8 +236,9 @@
 			buildActionMask = 2147483647;
 			files = (
 				DEF5168B1B672ECA00C23AC4 /* Main.storyboard in Resources */,
+				DE5710B51B6870C300200329 /* Images.xcassets in Resources */,
 				DEF516901B672ECA00C23AC4 /* LaunchScreen.xib in Resources */,
-				DEF5168D1B672ECA00C23AC4 /* Images.xcassets in Resources */,
+				DEF516A81B6735E900C23AC4 /* Podfile in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -207,13 +251,50 @@
 		};
 /* End PBXResourcesBuildPhase section */
 
+/* Begin PBXShellScriptBuildPhase section */
+		02C179BA4B9D234EBD9DA6CF /* Check Pods Manifest.lock */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+			);
+			name = "Check Pods Manifest.lock";
+			outputPaths = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "diff \"${PODS_ROOT}/../Podfile.lock\" \"${PODS_ROOT}/Manifest.lock\" > /dev/null\nif [[ $? != 0 ]] ; then\n    cat << EOM\nerror: The sandbox is not in sync with the Podfile.lock. Run 'pod install' or update your CocoaPods installation.\nEOM\n    exit 1\nfi\n";
+			showEnvVarsInLog = 0;
+		};
+		B58B07D73A81035B02AA33C1 /* Copy Pods Resources */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+			);
+			name = "Copy Pods Resources";
+			outputPaths = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "\"${SRCROOT}/Pods/Target Support Files/Pods/Pods-resources.sh\"\n";
+			showEnvVarsInLog = 0;
+		};
+/* End PBXShellScriptBuildPhase section */
+
 /* Begin PBXSourcesBuildPhase section */
 		DEF5167C1B672ECA00C23AC4 /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
 				DEF516881B672ECA00C23AC4 /* ViewController.swift in Sources */,
+				DE5710B31B686C5300200329 /* ConversationListViewController.swift in Sources */,
 				DEF516861B672ECA00C23AC4 /* AppDelegate.swift in Sources */,
+				DE5710B71B70A76B00200329 /* LoginViewController.swift in Sources */,
+				DE5710B11B676CB100200329 /* ConversationViewController.swift in Sources */,
+				DE5710B91B70AC9000200329 /* RoundImageView.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -340,21 +421,28 @@
 		};
 		DEF516A01B672ECA00C23AC4 /* Debug */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = 9D1CC66C101446142D4C1402 /* Pods.debug.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				CLANG_ENABLE_MODULES = YES;
 				INFOPLIST_FILE = RainChat/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_OBJC_BRIDGING_HEADER = "RainChat/RainChat-Bridging-Header.h";
+				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
 			};
 			name = Debug;
 		};
 		DEF516A11B672ECA00C23AC4 /* Release */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = 9E32F4F7593762E45E0AB5CC /* Pods.release.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				CLANG_ENABLE_MODULES = YES;
 				INFOPLIST_FILE = RainChat/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_OBJC_BRIDGING_HEADER = "RainChat/RainChat-Bridging-Header.h";
 			};
 			name = Release;
 		};
@@ -411,6 +499,7 @@
 				DEF516A11B672ECA00C23AC4 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		DEF516A21B672ECA00C23AC4 /* Build configuration list for PBXNativeTarget "RainChatTests" */ = {
 			isa = XCConfigurationList;
@@ -419,6 +508,7 @@
 				DEF516A41B672ECA00C23AC4 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
