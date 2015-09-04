@@ -1,1 +1,5 @@
+XSym
+0101
+0937081dde9557ea56227266ae7e931b
 ../../../../RongCloudIMKit/Rong_Cloud_iOS_SDK_v2.2.5/RongIMKit.framework/Headers/RCVoiceMessageCell.h
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          

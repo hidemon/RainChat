@@ -1,1 +1,5 @@
+XSym
+0095
+9c72604158317f31a06dc01ba98219f8
 ../../../../RongCloudIMKit/Rong_Cloud_iOS_SDK_v2.2.5/RongIMLib.framework/Headers/RCClientInfo.h
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                

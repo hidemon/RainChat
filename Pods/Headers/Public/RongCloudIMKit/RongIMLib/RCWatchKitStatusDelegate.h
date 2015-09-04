@@ -1,1 +1,5 @@
+XSym
+0107
+5047b19c43900d25c9291dbff01b0f82
 ../../../../RongCloudIMKit/Rong_Cloud_iOS_SDK_v2.2.5/RongIMLib.framework/Headers/RCWatchKitStatusDelegate.h
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    

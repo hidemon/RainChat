@@ -1,1 +1,5 @@
+XSym
+0111
+f4ca5602f3d6b1e4a28aeb28eea3b392
 ../../../../RongCloudIMKit/Rong_Cloud_iOS_SDK_v2.2.5/RongIMKit.framework/Headers/RCChatSessionInputBarControl.h
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                

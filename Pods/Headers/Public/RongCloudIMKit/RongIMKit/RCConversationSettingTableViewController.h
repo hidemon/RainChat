@@ -1,1 +1,5 @@
+XSym
+0123
+625c3f6134749bc9c58dc6232f98824e
 ../../../../RongCloudIMKit/Rong_Cloud_iOS_SDK_v2.2.5/RongIMKit.framework/Headers/RCConversationSettingTableViewController.h
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    

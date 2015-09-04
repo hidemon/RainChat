@@ -1,1 +1,5 @@
+XSym
+0106
+ec31211680e6308be2587ac7f7cd8f62
 ../../../../RongCloudIMKit/Rong_Cloud_iOS_SDK_v2.2.5/RongIMKit.framework/Headers/RCSettingViewController.h
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     

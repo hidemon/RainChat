@@ -1,1 +1,5 @@
+XSym
+0097
+0418cf71eff2ffc6981c7ffd85e57d2f
 ../../../../RongCloudIMKit/Rong_Cloud_iOS_SDK_v2.2.5/RongIMLib.framework/Headers/RCImageMessage.h
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              

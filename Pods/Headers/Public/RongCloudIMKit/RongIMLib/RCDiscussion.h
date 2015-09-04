@@ -1,1 +1,5 @@
+XSym
+0095
+95c9e7b7f7fe0be69fca4b2834cb5169
 ../../../../RongCloudIMKit/Rong_Cloud_iOS_SDK_v2.2.5/RongIMLib.framework/Headers/RCDiscussion.h
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                

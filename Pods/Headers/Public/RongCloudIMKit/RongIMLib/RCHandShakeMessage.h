@@ -1,1 +1,5 @@
+XSym
+0101
+a78a44392b1db8e995ebc61b1ab45b1b
 ../../../../RongCloudIMKit/Rong_Cloud_iOS_SDK_v2.2.5/RongIMLib.framework/Headers/RCHandShakeMessage.h
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          

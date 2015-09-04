@@ -1,1 +1,5 @@
+XSym
+0106
+50872517f96979ccaa78df66e1ebc26f
 ../../../../RongCloudIMKit/Rong_Cloud_iOS_SDK_v2.2.5/RongIMLib.framework/Headers/RCPublicServiceMenuItem.h
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     

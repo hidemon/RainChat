@@ -1,1 +1,5 @@
+XSym
+0111
+39f907f85da287b2e66927f05a8f5971
 ../../../../RongCloudIMKit/Rong_Cloud_iOS_SDK_v2.2.5/RongIMLib.framework/Headers/RCCommandNotificationMessage.h
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                

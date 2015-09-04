@@ -1,1 +1,5 @@
+XSym
+0111
+60addd32dc9c6ceaca0ce123c8232e6a
 ../../../../RongCloudIMKit/Rong_Cloud_iOS_SDK_v2.2.5/RongIMLib.framework/Headers/RCContactNotificationMessage.h
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                

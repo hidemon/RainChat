@@ -1,1 +1,5 @@
+XSym
+0044
+d1b6d1a8da68ae5fbf999ad985d3e69a
 ../../../pop/pop/POPBasicAnimationInternal.h
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   

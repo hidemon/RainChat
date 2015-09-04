@@ -1,1 +1,5 @@
+XSym
+0101
+ca00adca8e27e06e3e24a63c4d8c0081
 ../../../../RongCloudIMKit/Rong_Cloud_iOS_SDK_v2.2.5/RongIMLib.framework/Headers/RCAMRDataConverter.h
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          

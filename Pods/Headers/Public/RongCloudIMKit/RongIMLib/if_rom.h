@@ -1,1 +1,5 @@
+XSym
+0089
+b7a4ae221b2aaedbfc36245f27cc2a37
 ../../../../RongCloudIMKit/Rong_Cloud_iOS_SDK_v2.2.5/RongIMLib.framework/Headers/if_rom.h
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      

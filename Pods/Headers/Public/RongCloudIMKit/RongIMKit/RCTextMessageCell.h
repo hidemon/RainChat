@@ -1,1 +1,5 @@
+XSym
+0100
+3c6d53a5a5070022dc7321ecbb31240e
 ../../../../RongCloudIMKit/Rong_Cloud_iOS_SDK_v2.2.5/RongIMKit.framework/Headers/RCTextMessageCell.h
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           

@@ -1,1 +1,5 @@
+XSym
+0112
+05d640eb38d8f0d35ad16b08105189d4
 ../../../../RongCloudIMKit/Rong_Cloud_iOS_SDK_v2.2.5/RongIMLib.framework/Headers/RCPublicServiceCommondMessage.h
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               

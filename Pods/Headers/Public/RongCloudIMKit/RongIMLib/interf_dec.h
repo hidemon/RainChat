@@ -1,1 +1,5 @@
+XSym
+0093
+e27e387e49a0a8fe24e8fc5d8cea59b9
 ../../../../RongCloudIMKit/Rong_Cloud_iOS_SDK_v2.2.5/RongIMLib.framework/Headers/interf_dec.h
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  

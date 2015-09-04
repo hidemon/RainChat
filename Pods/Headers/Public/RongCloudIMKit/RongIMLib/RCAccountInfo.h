@@ -1,1 +1,5 @@
+XSym
+0096
+525e32d470af9c03af09d1ab7c9cf5fa
 ../../../../RongCloudIMKit/Rong_Cloud_iOS_SDK_v2.2.5/RongIMLib.framework/Headers/RCAccountInfo.h
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               
